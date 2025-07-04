@@ -1,0 +1,10 @@
+br\com\seatecnologia\hub\core\service\CepServiceTest$1.class
+br\com\seatecnologia\hub\core\service\CepServiceTest$3.class
+br\com\seatecnologia\hub\core\Util\ClientUtilTest.class
+br\com\seatecnologia\hub\core\validation\CEPValidatorTest.class
+br\com\seatecnologia\hub\core\validation\EmailValidatorTest.class
+br\com\seatecnologia\hub\core\validation\NomeValidatorTest.class
+br\com\seatecnologia\hub\core\service\CepServiceTest$2.class
+br\com\seatecnologia\hub\core\validation\CPFValidatorTest.class
+br\com\seatecnologia\hub\core\service\CepServiceTest.class
+br\com\seatecnologia\hub\core\validation\TelefoneValidatorTest.class

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\CEP.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\CPF.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\EmailValidator.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\CPFValidator.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\Nome.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\NomeValidator.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\dto\EmailDTO.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\service\CepService.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\dto\ClienteDTO.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\dto\TipoTelefone.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\TelefoneValidator.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\Telefone.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\dto\TelefoneDTO.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\Email.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\validation\CEPValidator.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\dto\EnderecoDTO.java
+C:\Users\Usuario\Desktop\DesafioBackEndVsCode\hub-core\src\main\java\br\com\seatecnologia\hub\core\Util\ClientUtil.java

@@ -1,0 +1,74 @@
+-------------------------------------------------------------------------------
+Test set: br.com.seatecnologia.hub.core.service.CepServiceTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 8.369 s <<< FAILURE! -- in br.com.seatecnologia.hub.core.service.CepServiceTest
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepComFormatacao -- Time elapsed: 8.232 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@203c20cf] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepInvalido -- Time elapsed: 0.009 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@6df3e44c] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepVazio -- Time elapsed: 0.010 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@4eb30d44] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepValido -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@1ab6718] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepNulo -- Time elapsed: 0.009 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@6fd77352] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepComErroAPI -- Time elapsed: 0.005 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@2c2db130] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+br.com.seatecnologia.hub.core.service.CepServiceTest.testConsultarCepNaoEncontrado -- Time elapsed: 0.008 s <<< ERROR!
+java.lang.IllegalArgumentException: Could not find field 'restTemplate' of type [null] on target object [br.com.seatecnologia.hub.core.service.CepService@2d000e80] or target class [class br.com.seatecnologia.hub.core.service.CepService]
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:190)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:107)
+	at org.springframework.test.util.ReflectionTestUtils.setField(ReflectionTestUtils.java:91)
+	at br.com.seatecnologia.hub.core.service.CepServiceTest.setUp(CepServiceTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
